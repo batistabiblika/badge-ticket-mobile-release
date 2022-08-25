@@ -1,5 +1,7 @@
 # Badge Ticket Scan App
+Appli fampiasa amin'ny 90e
 
-Jereo ao amin'ny release ny appli navoaka
+# Telechargement
+Jereo ao amin'ny release na telechargeo ity rohy ity : https://github.com/batistabiblika/badge-ticket-mobile-release/releases/download/BadgeTicketv1/ticket-badge-v1.0-alpha1.apk
 
 - v1.0-alpha1 : Test pre release
